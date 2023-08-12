@@ -2,9 +2,10 @@
 
 
 
-⚡ Quase formado em Eletrotécnica, atuo na área de motores elétricos, mais especificamente na bobinagem e ligação
+⚡ Formado em Eletrotécnica, já atuei na área de motores elétricos, mais especificamente na bobinagem e ligação
 
-📚 Estudo programação e pretendo utilizar a plataforma para publicar eventuais ideias e exercícios 💻 
+📚 Estudando programação, consegui uma oportunidade no setor de Tecnologia da empresa onde trabalho e, atualmente, faço a manutenção e desenvolvimento de módulos e funcionalidades no sistema de intranet da empresa, utilizando o Oracle Application Express e Banco de Dados Oracle. 
+Pretendo utilizar a plataforma para publicar eventuais ideias, projetos e exercícios dos cursos realizados. 💻 
 
 Dicas e sugestões são **sempre** bem-vindas! 💡
 
